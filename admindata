@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Peserta Kab Banjar</title>
+</head>
+<body>
+	<table width="0" border="0" align="center" cellpadding="15" cellspacing="1" bgcolor="black">
+		<tr bgcolor="yellow">
+			<td><strong>No</strong></td>
+			<td><strong>Provinsi</strong></td>
+			<td><strong>Kabupaten</strong></td>
+			<td><strong>Kecamatan</strong></td>
+			<td><strong>Desa</strong></td>
+			<td><strong>Nama Calon</strong></td>
+			<td><strong>NIK</strong></td>
+			<td><strong>No. HP</strong></td>
+			<td><strong>Umur</strong></td>
+			<td><strong>Jenis Kelamin</strong></td>
+			<td><strong>Pendidikan Terakhir</strong></td>
+			<td><strong>Status</strong></td>
+			<td><strong>Jumlah Anak</strong></td>
+			<td><strong>Klasifikasi</strong></td>
+			<td><strong>Pekerjaan</strong></td>
+			<td><strong>Keterangan</strong></td>
+			<td><strong>Sub Sektor</strong></td>
+			<td><strong>Komoditas</strong></td>
+			<td><strong>Pengolahan Hasil Pertanian</strong></td>
+			<td><strong>Pemasaran Hasil Pertanian</strong></td>
+			<td><strong>Usaha Saat Ini</strong></td>
+			<td><strong>Penghasilan Per Bulan</strong></td>
+			<td><strong>Jumlah Tenaga Kerja</strong></td>
+			<td><strong>Besar Modal Usaha</strong></td>
+			<td><strong>Sumber Modal Usaha</strong></td>
+			<td><strong>Akses Perbankan (Ya/Tidak)</strong></td>
+			<td><strong>Nama Lembaga Keuangan</strong></td>
+			<td><strong>Wirausaha Dibidang Pertanian</strong></td>
+			<td><strong>Bekerja Di Sektor Pertanian</strong></td>
+		</tr>
+		<tr bgcolor="white">
+			<td>302</td>
+			<td>Kalimantan Selatan</td>
+			<td>Banjar</td>
+			<td>Cintapuri Darussalam</td>
+			<td>Cintapuri</td>
+			<td>Muhammad Rizal</td>
+			<td>6303080432010003</td>
+			<td>081311959186</td>
+			<td>17</td>
+			<td>Laki-Laki</td>
+			<td>SMP</td>
+			<td>Menikah</td>
+			<td>2</td>
+			<td>Miskin</td>
+			<td>Belum Bekerja</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>Rp. 0,-</td>
+			<td>0</td>
+			<td>Rp. 0,-</td>
+			<td>-</td>
+			<td>Tidak</td>
+			<td>-</td>
+			<td>-</td>
+			<td>Mekanik Alsintan</td>
+		</tr>
+		<tr bgcolor="white">
+			<td>303</td>
+			<td>Kalimantan Selatan</td>
+			<td>Banjar</td>
+			<td>Cintapuri Darussalam</td>
+			<td>Cintapuri</td>
+			<td>Muhammad Junaidi</td>
+			<td>6303081607940006</td>
+			<td>081311959186</td>
+			<td>26</td>
+			<td>Laki-Laki</td>
+			<td>SMA</td>
+			<td>Menikah</td>
+			<td>3</td>
+			<td>Miskin</td>
+			<td>Petani</td>
+			<td>-</td>
+			<td>Tanaman Pangan</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>Rp. 1.750.000,-</td>
+			<td>0</td>
+			<td>Rp. 1.750.000,-</td>
+			<td>-</td>
+			<td>Tidak</td>
+			<td>-</td>
+			<td>-</td>
+			<td>Mekanik Alsintan</td>
+		</tr>
+		<tr bgcolor="white">
+			<td>304</td>
+			<td>Kalimantan Selatan</td>
+			<td>Banjar</td>
+			<td>Cintapuri Darussalam</td>
+			<td>Cintapuri</td>
+			<td>Akhmad Yani</td>
+			<td>6303081212920004</td>
+			<td>081311959186</td>
+			<td>28</td>
+			<td>Laki-Laki</td>
+			<td>SMP</td>
+			<td>Menikah</td>
+			<td>2</td>
+			<td>Miskin</td>
+			<td>Petani</td>
+			<td>-</td>
+			<td>Tanaman Pangan</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>Rp. 1.500.000,-</td>
+			<td>0</td>
+			<td>Rp. 1.500.000,-</td>
+			<td>-</td>
+			<td>Tidak</td>
+			<td>-</td>
+			<td>-</td>
+			<td>Mekanik Alsintan</td>
+		</tr>
+		<tr bgcolor="white">
+			<td>306</td>
+			<td>Kalimantan Selatan</td>
+			<td>Banjar</td>
+			<td>Cintapuri Darussalam</td>
+			<td>Cintapuri</td>
+			<td>Fahriannur</td>
+			<td>6401011008870002</td>
+			<td>081311959186</td>
+			<td>33</td>
+			<td>Laki-Laki</td>
+			<td>SMP</td>
+			<td>Menikah</td>
+			<td>2</td>
+			<td>Miskin</td>
+			<td>Petani</td>
+			<td>-</td>
+			<td>Tanaman Pangan</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>Rp. 1.750.000,-</td>
+			<td>0</td>
+			<td>Rp. 1.750.000,-</td>
+			<td>-</td>
+			<td>Tidak</td>
+			<td>-</td>
+			<td>-</td>
+			<td>Mekanik Alsintan</td>
+		</tr>
+		<tr bgcolor="white">
+			<td>310</td>
+			<td>Kalimantan Selatan</td>
+			<td>Banjar</td>
+			<td>Cintapuri Darussalam</td>
+			<td>Cintapuri</td>
+			<td>Dahyadi</td>
+			<td>6303080708840002</td>
+			<td>081311959186</td>
+			<td>34</td>
+			<td>Laki-Laki</td>
+			<td>SMA</td>
+			<td>Menikah</td>
+			<td>3</td>
+			<td>Miskin</td>
+			<td>Petani</td>
+			<td>-</td>
+			<td>Tanaman Pangan</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>Rp. 1.750.000,-</td>
+			<td>0</td>
+			<td>Rp. 1.750.000,-</td>
+			<td>-</td>
+			<td>Tidak</td>
+			<td>-</td>
+			<td>-</td>
+			<td>Mekanik Alsintan</td>
+		</tr>
+		<tr bgcolor="white">
+			<td>368</td>
+			<td>Kalimantan Selatan</td>
+			<td>Banjar</td>
+			<td>Gambut</td>
+			<td>Tambak Sirang Darat</td>
+			<td>Muhammad Kamal</td>
+			<td>6303030906930002</td>
+			<td>085754257700</td>
+			<td>26</td>
+			<td>Laki-Laki</td>
+			<td>SMA</td>
+			<td>Tidak Menikah</td>
+			<td>-</td>
+			<td>Tidak Miskin</td>
+			<td>Petani</td>
+			<td>-</td>
+			<td>Tanaman Pangan</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>Rp. 1.000.000,-</td>
+			<td>0</td>
+			<td>Rp. 1.000.000,-</td>
+			<td>Sendiri</td>
+			<td>Tidak</td>
+			<td>-</td>
+			<td>-</td>
+			<td>Mekanik Combaine Harvester</td>
+		</tr>
+		<tr bgcolor="white">
+			<td>371</td>
+			<td>Kalimantan Selatan</td>
+			<td>Banjar</td>
+			<td>Gambut</td>
+			<td>Gambut</td>
+			<td>Nor Sai'ansyah</td>
+			<td>6303030809870001</td>
+			<td>085249115444</td>
+			<td>32</td>
+			<td>Laki-Laki</td>
+			<td>SMA</td>
+			<td>Menikah</td>
+			<td>-</td>
+			<td>Miskin</td>
+			<td>Petani</td>
+			<td>-</td>
+			<td>Tanaman Pangan</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>Rp. 850.000,-</td>
+			<td>0</td>
+			<td>Rp. 850.000,-</td>
+			<td>Sendiri</td>
+			<td>Tidak</td>
+			<td>-</td>
+			<td>-</td>
+			<td>Mekanisasi Mesin Penggilingan Padi</td>
+		</tr>
+		<tr bgcolor="white">
+			<td>748</td>
+			<td>Kalimantan Selatan</td>
+			<td>Banjar</td>
+			<td>Martapura Timur</td>
+			<td>Melayu Tengah</td>
+			<td>ARMANIYAH</td>
+			<td>6303154810930000</td>
+			<td>081346633255</td>
+			<td>26</td>
+			<td>Perempuan</td>
+			<td>MA/SMAN</td>
+			<td>Tidak Menikah</td>
+			<td>-</td>
+			<td>Rentan Miskin</td>
+			<td>Buruh Tani</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>Pelajar / Mahasiswa</td>
+			<td>Rp. 750.000,-</td>
+			<td>0</td>
+			<td>Rp. -</td>
+			<td>-</td>
+			<td>Tidak</td>
+			<td>-</td>
+			<td>Hidroponik, Pengolahan Hasil Pertanian</td>
+			<td>Pengolahan daging ayam dan itik</td>
+		</tr>
+	</table>
+	
+
+
+</body>
+</html>
